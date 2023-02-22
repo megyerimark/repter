@@ -1,0 +1,10 @@
+{
+    "jaratok":[
+        {"id":1,"hova":"Párizs","indulas":"9:00","terminal":"2B" },
+        {"id":1,"hova":"London","indulas":"11:05","terminal":"2B" },
+        {"id":1,"hova":"Dubai","indulas":"15:00","terminal":"2B" },
+        {"id":1,"hova":"Dublin","indulas":"12:00","terminal":"2B" },
+        {"id":1,"hova":"Milánó","indulas":"8:40","terminal":"2B" },
+        {"id":1,"hova":"Róma","indulas":"4:14","terminal":"2B" }
+    ]
+}
