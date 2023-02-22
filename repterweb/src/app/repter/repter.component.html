@@ -1,0 +1,27 @@
+
+
+
+
+<p>repter works!</p>
+
+
+<table class="table table-stripper">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Hová</th>
+            <th>Indulás</th>
+            <th>Terminál</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr *ngFor="let jarat of jaratok">
+            <td>{{jarat.id}}</td>
+            <td>{{jarat.hova}}</td>
+            <td>{{jarat.idnulas}}</td>
+            <td>{{jarat.terminal}}</td>
+            
+        </tr>
+    </tbody>
+</table>
